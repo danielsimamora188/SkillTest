@@ -1,4 +1,6 @@
 # SkillTest
 
-Menggunakan Handlebar
-Menggunakan Express.JS
+Framework yang digunakan :
+  - Express.jS
+  - Handlebar.js
+  - bootstrap
